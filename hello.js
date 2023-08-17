@@ -3,8 +3,17 @@ Welcome, new coder.
 Enter your code on line 7 to print 'Hello, World!' 
 to the console (the panel on the right)
 */
+console.log('Coding Rocks');
+console.log('Hello World');
+//console.log(Hello World); ERROR
+// console.log('Hello World') needed semicolon for the code after to work
+console.log(5 + 9);
+console.log('Watch');
+console.log('This');
+console.log("How about", "THIS?");
+console.log('"Nevermore"');
 
-console.log("Hello");
+
 
 /*  
 Next, PLAY! 
